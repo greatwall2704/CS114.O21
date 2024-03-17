@@ -15,7 +15,11 @@
 - Năm học: 2023-2024
 
 ## QUÁ TRÌNH MÔN HỌC
+1. LẬP TRÌNH PYTHON
 
+2. COLAB ASSSIGNMENTS
+
+3. QT IN CLASS
 ## GIẢNG VIÊN HƯỚNG DẪN
 - PGS.TS. Lê Đình Duy - duydl@uit.edu.vn
 - ThS. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
