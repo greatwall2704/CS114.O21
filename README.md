@@ -4,6 +4,7 @@
 - Họ và tên: Nguyễn Mạnh Tường
 - MSSV: 22521626
 - Khoa: Khoa học máy tính
+- Lớp: KHMT2022.4
 
 # GIỚI THIỆU MÔN HỌC
 - Tên môn học: Máy học - MACHINE LEARNING
