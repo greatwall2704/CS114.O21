@@ -29,7 +29,7 @@
 - **Assignment 3**: Ừ thì search
 - **Assignment 4**: Giờ là sort ... và list
 2. COLAB ASSSIGNMENTS
-- Assignment 1: [Digit Classification](https://colab.research.google.com/drive/1oPO_BPztTjBy62fytRuYx6A7Uy1aDj4J#scrollTo=zdbDnWCAMudh)
+- Assignment 1: [Digit Classification](https://colab.research.google.com/drive/14M4iNoAm7yiwaVR_TTzN8J_ZeKMBnVqm)
 3. QT IN CLASS
 - **Buổi 1**
   - Tại sao nên học môn Máy học?
