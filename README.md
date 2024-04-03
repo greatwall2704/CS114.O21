@@ -54,7 +54,7 @@
 |STT|MSSV|Họ và tên|Github|Email|
 |:---:|----|---------|------|-----|
 |1|22521626|Nguyễn Mạnh Tường|https://github.com/greatwall2704|22521626@gm.edu.vn|
-|2|
-|3|
+|2|22520054|Nguyễn Duy Tâm Anh|https://github.com/tamchamchi|22520054@gm.edu.vn|
+|3|22521322|Trần Văn Thân|https://github.com/vanthan04|22521322@gm.uit.edu.vn|
 
 ## ĐỒ ÁN MÔN HỌC
